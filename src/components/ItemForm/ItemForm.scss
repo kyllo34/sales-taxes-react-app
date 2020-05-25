@@ -1,0 +1,13 @@
+.item-form {
+  border: solid 1px;
+  border-radius: 5px;
+  padding: 5px;
+  width: 400px;
+  .quantity-field {
+    padding: .375rem 0rem .375rem .5rem;
+    margin-left: 5px;
+    width: 3.25rem;
+    border-radius: 5px;
+    border: solid 1px #ced4da;
+  }
+}
