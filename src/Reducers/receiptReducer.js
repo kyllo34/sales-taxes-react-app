@@ -1,7 +1,7 @@
 const receipt = (state = [], action) => {
   switch (action.type) {
     case "ADD_BASKET":
-      return [...state, action.payload];
+      return action.payload.items.length !== 0 ? [...state, action.payload]: [...state];
     case "CLEAR_RECEIPT":
       return [];
     default:

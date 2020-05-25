@@ -18,7 +18,7 @@ const onSubmit = data => {
       <Form onSubmit={handleSubmit(onSubmit)}>
         <Form.Group controlId="formBasicDescription">
           <Form.Label>Item Description</Form.Label>
-          <Form.Control type="text" placeholder="Enter Description" name="description" ref={register} />
+          <Form.Control type="text" placeholder="Enter Description" name="description" ref={register} required/>
         </Form.Group>
 
         <Form.Group controlId="formBasicCategory">
