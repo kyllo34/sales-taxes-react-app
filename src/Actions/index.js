@@ -6,10 +6,17 @@ export function addItem(item) {
   };
 }
 
-// Adds new basket to basket array
+// Adds new basket to receipt array
 export function addBasket(basket) {
   return {
     type: "ADD_BASKET",
     payload: basket,
   };
+}
+
+// Clears basket object
+export function clearBasket() {
+  return {
+    type: "CLEAR_BASKET",
+  }
 }
