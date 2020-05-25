@@ -18,5 +18,12 @@ export function addBasket(basket) {
 export function clearBasket() {
   return {
     type: "CLEAR_BASKET",
-  }
+  };
+}
+
+// Clears receipt
+export function clearReceipt() {
+  return {
+    type: "CLEAR_RECEIPT",
+  };
 }

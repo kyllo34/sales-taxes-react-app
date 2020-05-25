@@ -36,6 +36,14 @@ const Basket = ({ basket, addBasket, clearBasket }) => {
       >
         Add to Receipt
       </Button>
+      <Button
+        variant="danger"
+        onClick={() => {
+          clearBasket();
+        }}
+      >
+        Clear Basket
+      </Button>
     </div>
   );
 };
