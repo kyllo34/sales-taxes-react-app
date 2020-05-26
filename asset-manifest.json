@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sales-taxes-react-app/static/css/main.5715f891.chunk.css",
+    "main.js": "/sales-taxes-react-app/static/js/main.6b14e1a1.chunk.js",
+    "main.js.map": "/sales-taxes-react-app/static/js/main.6b14e1a1.chunk.js.map",
+    "runtime-main.js": "/sales-taxes-react-app/static/js/runtime-main.da3426d7.js",
+    "runtime-main.js.map": "/sales-taxes-react-app/static/js/runtime-main.da3426d7.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/sales-taxes-react-app/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a07556d2.chunk.js": "/sales-taxes-react-app/static/js/2.a07556d2.chunk.js",
+    "static/js/2.a07556d2.chunk.js.map": "/sales-taxes-react-app/static/js/2.a07556d2.chunk.js.map",
+    "index.html": "/sales-taxes-react-app/index.html",
+    "precache-manifest.56659c0b49a8bafa6f1aac0c1a2cf451.js": "/sales-taxes-react-app/precache-manifest.56659c0b49a8bafa6f1aac0c1a2cf451.js",
+    "service-worker.js": "/sales-taxes-react-app/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/sales-taxes-react-app/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5715f891.chunk.css.map": "/sales-taxes-react-app/static/css/main.5715f891.chunk.css.map",
+    "static/js/2.a07556d2.chunk.js.LICENSE.txt": "/sales-taxes-react-app/static/js/2.a07556d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da3426d7.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.a07556d2.chunk.js",
+    "static/css/main.5715f891.chunk.css",
+    "static/js/main.6b14e1a1.chunk.js"
+  ]
+}
